@@ -116,7 +116,6 @@ Watch the robot's actions during a match in the MP4 video linked below:
 ---
     
 ### ⚠️ Important Notes
-- Replace `your-username`, `your-repository-name`, and `robot-tennis-match.mp4` with your actual GitHub username, repository name, and video file name respectively.
-- If the file size exceeds **100MB**, consider setting up [Git LFS](https://git-lfs.github.com/) or adding external platform links.
+- An MP4 file containing the robot's movements during the game has been uploaded to GitHub. 
     
 ---
