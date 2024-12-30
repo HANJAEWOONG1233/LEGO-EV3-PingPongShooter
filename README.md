@@ -112,11 +112,4 @@ Watch the robot's actions during a match by clicking the video thumbnail below:
 - **Pybricks Official Documentation**: [Pybricks Documentation](https://pybricks.com/)
 - **LEGO Mindstorms EV3 Official Site**: [LEGO EV3](https://www.lego.com/mindstorms)
     
----
-
-### ⚠️ Important Notes
-- Replace `your-username`, `your-repository-name`, and `robot-tennis-match.mp4` with your actual GitHub username, repository name, and video file name respectively.
-- If the file size exceeds **100MB**, consider setting up [Git LFS](https://git-lfs.github.com/) or adding external platform links.
-    
----
 
