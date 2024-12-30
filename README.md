@@ -4,7 +4,7 @@
 The **EV3 Robot Ping Pong Shooting Project** involves designing and programming an autonomous robot based on **LEGO EV3** to execute ping pong matches according to established regulations. This robot is engineered to comply with competition rules, utilizing a precisely designed arm to accurately shoot ping pong balls into the opponent's side of the court.
 
 ---
-    
+
 ## 🧩 Introduction to LEGO EV3
 **LEGO Mindstorms EV3** is a versatile platform for learning robotics and developing projects. It features a programmable brick capable of controlling various sensors and motors.
 
@@ -15,9 +15,9 @@ The **EV3 Robot Ping Pong Shooting Project** involves designing and programming 
   - **Expandable and Open-Source Programmable**
 
 ---
-    
+
 ## 🛠️ Technology Stack & Components
-    
+
 ### 🖥️ Hardware
 - **LEGO EV3 Modules**
 - **Ultrasonic Sensor**
@@ -30,7 +30,7 @@ The **EV3 Robot Ping Pong Shooting Project** involves designing and programming 
 - **LEGO EV3 IDE or VSCode**
 
 ---
-    
+
 ## 🚀 Key Features
 1. **Ball Shooting**
    - Utilizes an arm tailored to court dimensions to launch ping pong balls in designated directions.
@@ -40,9 +40,9 @@ The **EV3 Robot Ping Pong Shooting Project** involves designing and programming 
    - Fully autonomous actions initiated by a start button, adhering to competition regulations.
     
 ---
-    
+
 ## 🔧 How It Works
-    
+
 ### 🎯 Shooting Algorithm
 - The robot moves forward while using its arm to shoot a ping pong ball.
 - After shooting, it reverses and switches to standby mode.
@@ -65,7 +65,7 @@ The **EV3 Robot Ping Pong Shooting Project** involves designing and programming 
 3. **Match End**: Halt all actions after the set time elapses.
     
 ---
-    
+
 ## 📜 Competition Rules Summary
 - **Court Size**: 2.4m x 1.2m, enclosed by walls 10cm high.
 - **Ball**: Standard ping pong ball with a diameter of 40mm.
@@ -73,9 +73,9 @@ The **EV3 Robot Ping Pong Shooting Project** involves designing and programming 
 - **Regulations**: Robot operates autonomously with no human intervention during the match.
     
 ---
-    
+
 ## 🔍 Future Improvements
-    
+
 ### 🛠️ Hardware Enhancements
 - **Motor Upgrade**: Research and develop new motors and components to increase shooting power.
 
@@ -87,16 +87,16 @@ The **EV3 Robot Ping Pong Shooting Project** involves designing and programming 
   - **Shooting**: Launch the ball into the opponent's area from optimal positions.
     
 ---
-    
-## 🎥 Match Video
-Watch the robot's actions during a match in the MP4 video linked below:
 
-[🎬 View Match Video](https://github.com/your-username/your-repository-name/raw/main/robot-tennis-match.mp4)
-    
+## 🎥 Match Video
+Watch the robot's actions during a match by clicking the video thumbnail below:
+
+[![Watch the Video](https://img.youtube.com/vi/V2RznB9y5eM/maxresdefault.jpg)](https://youtube.com/shorts/V2RznB9y5eM?feature=share)
+
 ---
-    
+
 ## 🛠️ How to Use
-    
+
 1. **Upload Code**:
    - Upload the Pybricks MicroPython code to the EV3 Brick.
 2. **Prepare for Match**:
@@ -107,9 +107,16 @@ Watch the robot's actions during a match in the MP4 video linked below:
    - The robot will execute shots, adhering to competition regulations by shooting balls into the opponent's area.
     
 ---
-    
+
 ## 📚 References
 - **Pybricks Official Documentation**: [Pybricks Documentation](https://pybricks.com/)
 - **LEGO Mindstorms EV3 Official Site**: [LEGO EV3](https://www.lego.com/mindstorms)
     
 ---
+
+### ⚠️ Important Notes
+- Replace `your-username`, `your-repository-name`, and `robot-tennis-match.mp4` with your actual GitHub username, repository name, and video file name respectively.
+- If the file size exceeds **100MB**, consider setting up [Git LFS](https://git-lfs.github.com/) or adding external platform links.
+    
+---
+
