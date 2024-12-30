@@ -109,13 +109,7 @@ Watch the robot's actions during a match in the MP4 video linked below:
 ---
     
 ## 📚 References
-- **Competition Rules**: [File: 09_Robot Tennis EV3 Programming.pdf](#)
 - **Pybricks Official Documentation**: [Pybricks Documentation](https://pybricks.com/)
 - **LEGO Mindstorms EV3 Official Site**: [LEGO EV3](https://www.lego.com/mindstorms)
-    
----
-    
-### ⚠️ Important Notes
-- An MP4 file containing the robot's movements during the game has been uploaded to GitHub. 
     
 ---
